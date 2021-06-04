@@ -1,19 +1,14 @@
 {
-  "annotations": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/annotations.nrrd",
-  "hierarchy": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/brain_regions.json",
+  "annotations": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/brain_regions.nrrd",
+  "hierarchy": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/hierarchy.json",
   "nrrd": {
-    "cells": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/cell_density.nrrd",
-    "neurons": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/neu_density.nrrd",
-    "gad": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_GAD.nrrd",
-    "exc": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_EXC.nrrd",
-    "pv": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_PV.nrrd",
-    "sst": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_SST.nrrd",
-    "rest": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_REST.nrrd",
-    "vip": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_VIP.nrrd",
-    "glia": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/glia_density.nrrd",
-    "astro": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/astro_density.nrrd",
-    "micro": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/micglia_density.nrrd",
-    "oligo": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/oligo_density.nrrd"
+    "neurons": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/neu_density.nrrd",
+    "gad": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_GAD.nrrd",
+    "exc": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_EXC.nrrd",
+    "pv": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_PV.nrrd",
+    "sst": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_SST.nrrd",
+    "rest": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_REST.nrrd",
+    "vip": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_VIP.nrrd"
   },
   "tests": [
     {
@@ -30,20 +25,6 @@
       "mask": ["and",["Isocortex", "Layer1"]],
       "tolerance": {"absolute": 1E-2},
       "comment": "Nothing excitatory in L1!"
-    },
-    {
-      "left": ["neurons", "glia"],
-      "right": ["cells"],
-      "mask": "Isocortex",
-      "tolerance": {"relative": 1E-6},
-      "comment": "Cells are either neurons or glia in this context"
-    },
-    {
-      "left": ["glia"],
-      "right": ["astro", "micro", "oligo"],
-      "mask": "Isocortex",
-      "tolerance": {"relative": 1E-6},
-      "comment": "Glia are one of the three subtypes"
     },
     {
       "left": ["neurons"],
