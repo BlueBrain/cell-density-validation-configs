@@ -2,12 +2,12 @@
   "annotations": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/brain_regions.nrrd",
   "hierarchy": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/hierarchy.json",
   "nrrd": {
-    "gad": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/densities_GAD.nrrd",
-    "pv": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/densities_PV.nrrd",
-    "sst": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/densities_SST.nrrd",
-    "rest": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/densities_REST.nrrd",
-    "vip": "/gpfs/bbp.cscs.ch/project/proj82/home/reimann/atlas_detect_density_outliers/inputs/M7/VIP_SST_PV_FIX/densities_VIP.nrrd",
-    "inh-mtypes": "/gpfs/bbp.cscs.ch/home/yroussel/m_type_densities_M7/m-type_densities_May27_2021_PV_SST_Htr3a_split_L1.tar"
+    "gad": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_GAD.nrrd",
+    "pv": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_PV.nrrd",
+    "sst": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_SST.nrrd",
+    "rest": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_REST.nrrd",
+    "vip": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_VIP.nrrd",
+    "inh-mtypes": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/safe_inhibitory_densities/m-type_densities_May27_2021_PV_SST_Htr3a_split_L1.tar"
   },
   "tests": [
     {
