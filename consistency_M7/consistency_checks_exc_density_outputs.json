@@ -1,8 +1,8 @@
 {
-  "annotations": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/annotations.nrrd",
-  "hierarchy": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/brain_regions.json",
+  "annotations": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/brain_regions.nrrd",
+  "hierarchy": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/hierarchy.json",
   "nrrd": {
-    "exc": "/gpfs/bbp.cscs.ch/home/rodarie/new_densities/circuit_building/densities_EXC.nrrd",
+    "exc": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_EXC.nrrd",
     "exc-mtypes": [
       "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L2_IPC.nrrd",
       "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L2_TPC:A.nrrd",
