@@ -1,14 +1,14 @@
 {
-  "annotations": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/brain_regions.nrrd",
-  "hierarchy": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/hierarchy.json",
+  "annotations": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/brain_regions.nrrd",
+  "hierarchy": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/hierarchy.json",
   "nrrd": {
-    "neurons": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/neu_density.nrrd",
-    "gad": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_GAD.nrrd",
-    "exc": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_EXC.nrrd",
-    "pv": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_PV.nrrd",
-    "sst": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_SST.nrrd",
-    "rest": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_REST.nrrd",
-    "vip": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/input_marker_stain_densities/densities_VIP.nrrd"
+    "neurons": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/neu_density.nrrd",
+    "gad": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_GAD.nrrd",
+    "exc": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_EXC.nrrd",
+    "pv": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_PV.nrrd",
+    "sst": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_SST.nrrd",
+    "rest": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_REST.nrrd",
+    "vip": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_VIP.nrrd"
   },
   "tests": [
     {
