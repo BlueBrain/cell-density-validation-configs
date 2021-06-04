@@ -25,20 +25,6 @@
     },
     {
       "modality": "count",
-      "left": [111080000],
-      "right": ["cells"],
-      "tolerance": {"relative": 1E-6},
-      "comment": "Total number of cells according to Dimitri 's original work"
-    },
-    {
-      "modality": "count",
-      "left": [71760000],
-      "right": ["neurons"],
-      "tolerance": {"relative": 1E-6},
-      "comment": "Total number of neurons according to Dimitri's original work"
-    },
-    {
-      "modality": "count",
       "left": [0],
       "right": ["exc"],
       "mask": ["and",["Isocortex", "Layer1"]],
