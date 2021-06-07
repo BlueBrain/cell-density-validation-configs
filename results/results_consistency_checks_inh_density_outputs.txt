@@ -1,0 +1,554 @@
+Testing: ['gad'] equals ['inh-mtypes']
+        for regions matching ['and', ['Isocortex', 'Layer1']]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 50460639357.33255
+        	right sum is 50460639357.33255
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -2.3283064365386963e-10
+			Relative max over voxels: -1.8484754895369368e-16
+	Conclusion: PASSED!
+
+
+Testing: ['pv', 'sst', 'vip', 'rest'] equals ['inh-mtypes']
+        for regions matching ['and', ['Isocortex', 'Layer1']]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 50460639357.33255
+        	right sum is 50460639357.33255
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -2.3283064365386963e-10
+			Relative max over voxels: -2.669881472069415e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ACAd', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2694216843.9291334
+        	right sum is 2694216843.9291334
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -1.0913936421275139e-11
+			Relative max over voxels: 2.771375963861642e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ACAv', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2299636477.9065332
+        	right sum is 2299636477.9065332
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.1913621298627858e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['AId', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2662635540.123747
+        	right sum is 2662635540.123747
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 1.901065989191656e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['AIp', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2237160300.170367
+        	right sum is 2237160300.170367
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 1.4551915228366852e-11
+			Relative max over voxels: 2.7847492881327065e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['AIv', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1461655967.9528685
+        	right sum is 1461655967.9528685
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.6750152470613544e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['AUDp', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2073983488.7319646
+        	right sum is 2073983488.7319646
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 3.637978807091713e-12
+			Relative max over voxels: 1.5255657154258593e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['AUDpo', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 611388857.9027107
+        	right sum is 611388857.9027106
+        		Resulting errors:
+			Absolute sum: 1.1920928955078125e-07
+			Relative sum: 9.749056431917413e-17
+			Absolute max over voxels: 3.637978807091713e-12
+			Relative max over voxels: 7.820413278278153e-17
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['AUDv', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1814845429.5551577
+        	right sum is 1814845429.5551577
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -7.275957614183426e-12
+			Relative max over voxels: -2.0345202479463341e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ECT', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1825586360.3340201
+        	right sum is 1825586360.3340201
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.1982400891372656e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['FRP', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1010222740.8918147
+        	right sum is 1010222740.8918147
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 1.4551915228366852e-11
+			Relative max over voxels: 2.7362023977702413e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['GU', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1719994483.1536524
+        	right sum is 1719994483.1536524
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.5338272641827753e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ILA', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 857382874.6324074
+        	right sum is 857382874.6324073
+        		Resulting errors:
+			Absolute sum: 1.1920928955078125e-07
+			Relative sum: 6.951928541953372e-17
+			Absolute max over voxels: -1.4551915228366852e-11
+			Relative max over voxels: 2.6294011810045535e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['MOp', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 9850789330.379097
+        	right sum is 9850789330.379095
+        		Resulting errors:
+			Absolute sum: 1.9073486328125e-06
+			Relative sum: 9.681196952057331e-17
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.2078823414392465e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['MOs', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 11105896495.079916
+        	right sum is 11105896495.079914
+        		Resulting errors:
+			Absolute sum: 1.9073486328125e-06
+			Relative sum: 8.58709890578165e-17
+			Absolute max over voxels: 1.0913936421275139e-11
+			Relative max over voxels: 2.426280449038145e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ORBl', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 3148071066.4751625
+        	right sum is 3148071066.4751625
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 1.0913936421275139e-11
+			Relative max over voxels: 2.9687863533722177e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ORBm', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1455192509.1538513
+        	right sum is 1455192509.1538513
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 2.9103830456733704e-11
+			Relative max over voxels: 2.3074873994814564e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['ORBvl', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2321816563.959474
+        	right sum is 2321816563.959474
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 1.0913936421275139e-11
+			Relative max over voxels: 2.5769642577088575e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['PERI', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 696387548.2187963
+        	right sum is 696387548.218796
+        		Resulting errors:
+			Absolute sum: 2.384185791015625e-07
+			Relative sum: 1.7118239672103845e-16
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: -2.0171076449667372e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['PL', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2137026866.9107463
+        	right sum is 2137026866.9107463
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 1.0913936421275139e-11
+			Relative max over voxels: 2.997570601084451e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['RSPd', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 3938981953.54671
+        	right sum is 3938981953.5467095
+        		Resulting errors:
+			Absolute sum: 4.76837158203125e-07
+			Relative sum: 6.052796938734065e-17
+			Absolute max over voxels: -1.4551915228366852e-11
+			Relative max over voxels: -2.184439678281269e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['RSPv', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 4344022758.660108
+        	right sum is 4344022758.660108
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 4.3655745685100555e-11
+			Relative max over voxels: 2.705345890300783e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSp-ll', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2717701883.446831
+        	right sum is 2717701883.446832
+        		Resulting errors:
+			Absolute sum: -9.5367431640625e-07
+			Relative sum: -1.7545602080473875e-16
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.733796668064793e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSp-m', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 6243140614.100997
+        	right sum is 6243140614.100997
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -7.275957614183426e-12
+			Relative max over voxels: 2.2340280417553827e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSp-n', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 3202473520.9587374
+        	right sum is 3202473520.958737
+        		Resulting errors:
+			Absolute sum: 4.76837158203125e-07
+			Relative sum: 7.444825930369791e-17
+			Absolute max over voxels: 1.4551915228366852e-11
+			Relative max over voxels: 2.738751023675183e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSp-tr', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1780820224.7347505
+        	right sum is 1780820224.73475
+        		Resulting errors:
+			Absolute sum: 4.76837158203125e-07
+			Relative sum: 1.338813293953209e-16
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 1.9915402146666477e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSp-ul', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 3841066122.213529
+        	right sum is 3841066122.213529
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -7.275957614183426e-12
+			Relative max over voxels: -2.2035356560464265e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSp-un', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1258474579.6027248
+        	right sum is 1258474579.6027248
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.1982921005376586e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['SSs', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 9411158941.285776
+        	right sum is 9411158941.285776
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 1.0913936421275139e-11
+			Relative max over voxels: 3.211293660209544e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['TEa', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 3001965015.154664
+        	right sum is 3001965015.154664
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -7.275957614183426e-12
+			Relative max over voxels: -2.037442061803521e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISC', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 2503067311.4845357
+        	right sum is 2503067311.4845357
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 1.760569091033758e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISa', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1686768311.2288628
+        	right sum is 1686768311.2288628
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.115822113663884e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISal', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 706840755.1152408
+        	right sum is 706840755.1152408
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -3.637978807091713e-12
+			Relative max over voxels: -1.0751332574393084e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISam', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 774324831.2093267
+        	right sum is 774324831.2093267
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.314747032328854e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISl', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1370269492.1689007
+        	right sum is 1370269492.1689007
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -7.275957614183426e-12
+			Relative max over voxels: 1.975805738980151e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISli', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 579368922.0117966
+        	right sum is 579368922.0117966
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -7.275957614183426e-12
+			Relative max over voxels: -1.752746505507532e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISp', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 9879994335.7752
+        	right sum is 9879994335.775196
+        		Resulting errors:
+			Absolute sum: 3.814697265625e-06
+			Relative sum: 1.9305159173078076e-16
+			Absolute max over voxels: -1.0913936421275139e-11
+			Relative max over voxels: 3.061241561928687e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISpl', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 712453882.4356943
+        	right sum is 712453882.4356943
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.0674371248121806e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISpm', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1033981307.9639126
+        	right sum is 1033981307.9639126
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: -1.6383229601614344e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISpor', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1367536457.5290058
+        	right sum is 1367536457.5290058
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.0789612186588966e-16
+	Conclusion: PASSED!
+
+
+Testing: ['inh-mtypes'] equals ['pv', 'sst', 'vip', 'rest']
+        for regions matching ['and', ['VISrl', ['and', ['Isocortex', 'Layer[2-6]']]]]
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 1005104025.0390286
+        	right sum is 1005104025.0390289
+        		Resulting errors:
+			Absolute sum: -2.384185791015625e-07
+			Relative sum: -1.186039321115566e-16
+			Absolute max over voxels: 7.275957614183426e-12
+			Relative max over voxels: 2.1412426587195815e-16
+	Conclusion: PASSED!
+
+
+
+gad: Passed 1 out of 1 tests
+pv: Passed 41 out of 41 tests
+sst: Passed 41 out of 41 tests
+rest: Passed 41 out of 41 tests
+vip: Passed 41 out of 41 tests
+inh-mtypes: Passed 42 out of 42 tests
+
