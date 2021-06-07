@@ -7,7 +7,7 @@
     "sst": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_SST.nrrd",
     "rest": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_REST.nrrd",
     "vip": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/densities_VIP.nrrd",
-    "inh-mtypes": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/safe_inhibitory_densities/m-type_densities_May27_2021_PV_SST_Htr3a_split_L1.tar"
+    "inh-mtypes": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/INH/m-type_densities_May27_2021_PV_SST_Htr3a_split_L1.tar"
   },
   "tests": [
     {
