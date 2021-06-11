@@ -1,0 +1,24 @@
+{
+  "atlas": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531",
+  "out_fn": "profiles_m7_post.pkl",
+  "densities": [
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L5_TPC:B_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L2_TPC:A_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L2_TPC:B_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L6_UPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L6_TPC:A_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L4_SSC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L4_TPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L6_IPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L6_BPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L5_TPC:A_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L2_IPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L3_TPC:C_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L5_UPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L6_TPC:C_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L5_TPC:C_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L4_UPC_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L3_TPC:A_density.nrrd",
+    "/gpfs/bbp.cscs.ch/home/lguyot/Documents/NSE/results/ph_mtypes_test/L6_HPC_density.nrrd"
+  ]
+}
