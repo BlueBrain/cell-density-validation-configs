@@ -61,7 +61,10 @@
     "L23_NGC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L23_NGC.nrrd",
     "L6_CHC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L6_CHC.nrrd",
     "L2_IPC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L2_IPC.nrrd",
-    "neurons": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/inputs/marker_stain_densities/neu_density.nrrd"
+    "neurons": [
+        "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]EXC.nrrd",
+        "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]INH.nrrd"
+    ]
   },
   "tests": [
     {
