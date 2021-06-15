@@ -28,7 +28,6 @@
     "L23_DBC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L23_DBC.nrrd",
     "L4_UPC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L4_UPC.nrrd",
     "L6_UPC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L6_UPC.nrrd",
-    "L1_NGC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L1_NGC-SA.nrrd",
     "L3_TPC:A": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L3_TPC:A.nrrd",
     "L5_DBC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L5_DBC.nrrd",
     "L6_IPC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L6_IPC.nrrd",
@@ -62,9 +61,11 @@
     "L6_CHC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L6_CHC.nrrd",
     "L2_IPC": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L2_IPC.nrrd",
     "neurons": [
-        "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]EXC.nrrd",
-        "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]INH.nrrd"
-    ]
+      "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]EXC.nrrd",
+      "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]INH.nrrd"
+    ],
+    "L1_NGC-SA": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L1_NGC-SA.nrrd",
+    "L1_NGC-DA": "/gpfs/bbp.cscs.ch/project/proj82/entities/atlas/ThalNCX/20210531/[cell_density]L1_NGC-DA.nrrd"
   },
   "tests": [
     {
@@ -922,7 +923,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -946,7 +947,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -970,7 +971,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -994,7 +995,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1018,7 +1019,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1042,7 +1043,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1066,7 +1067,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1090,7 +1091,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1114,7 +1115,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1138,7 +1139,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1162,7 +1163,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1186,7 +1187,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1210,7 +1211,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1234,7 +1235,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1258,7 +1259,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1282,7 +1283,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1306,7 +1307,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1330,7 +1331,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1354,7 +1355,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1378,7 +1379,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1402,7 +1403,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1426,7 +1427,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1450,37 +1451,13 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
         }
       },
       "comment": "Placed L6_UPC neurons should add up.",
-      "modality": "count"
-    },
-    {
-      "mask": "Isocortex",
-      "left": [
-        "L1_NGC"
-      ],
-      "right": [
-        {
-          "filters": {
-            "mtype": "L1_NGC"
-          },
-          "circuit": "proj_82"
-        }
-      ],
-      "tolerance": {
-        "sum_of_voxels": {
-          "absolute": 1.1
-        },
-        "idv_voxels": {
-          "log-p-value": 0.5
-        }
-      },
-      "comment": "Placed L1_NGC neurons should add up.",
       "modality": "count"
     },
     {
@@ -1498,7 +1475,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1522,7 +1499,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1546,7 +1523,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1570,7 +1547,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1594,7 +1571,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1618,7 +1595,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1642,7 +1619,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1666,7 +1643,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1690,7 +1667,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1714,7 +1691,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1738,7 +1715,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1762,7 +1739,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1786,7 +1763,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1810,7 +1787,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1834,7 +1811,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1858,7 +1835,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1882,7 +1859,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1906,7 +1883,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1930,7 +1907,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1954,7 +1931,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -1978,7 +1955,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2002,7 +1979,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2026,7 +2003,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2050,7 +2027,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2074,7 +2051,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2098,7 +2075,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2122,7 +2099,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2146,7 +2123,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2170,7 +2147,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2194,7 +2171,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2218,7 +2195,7 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
@@ -2242,13 +2219,61 @@
       ],
       "tolerance": {
         "sum_of_voxels": {
-          "absolute": 1.1
+          "absolute": 2.0
         },
         "idv_voxels": {
           "log-p-value": 0.5
         }
       },
       "comment": "Placed L2_IPC neurons should add up.",
+      "modality": "count"
+    },
+    {
+      "mask": "Isocortex",
+      "left": [
+        "L1_NGC-SA"
+      ],
+      "right": [
+        {
+          "filters": {
+            "mtype": "L1_NGC-SA"
+          },
+          "circuit": "proj_82"
+        }
+      ],
+      "tolerance": {
+        "sum_of_voxels": {
+          "absolute": 2.0
+        },
+        "idv_voxels": {
+          "log-p-value": 0.5
+        }
+      },
+      "comment": "Placed L1_NGC-SA neurons should add up.",
+      "modality": "count"
+    },
+    {
+      "mask": "Isocortex",
+      "left": [
+        "L1_NGC-DA"
+      ],
+      "right": [
+        {
+          "filters": {
+            "mtype": "L1_NGC-DA"
+          },
+          "circuit": "proj_82"
+        }
+      ],
+      "tolerance": {
+        "sum_of_voxels": {
+          "absolute": 2.0
+        },
+        "idv_voxels": {
+          "log-p-value": 0.5
+        }
+      },
+      "comment": "Placed L1_NGC-DA neurons should add up.",
       "modality": "count"
     }
   ]
