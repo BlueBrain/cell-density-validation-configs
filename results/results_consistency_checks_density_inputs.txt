@@ -1,0 +1,46 @@
+Testing: ['gad'] equals ['pv', 'sst', 'rest', 'vip']
+        for regions matching Isocortex
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 172673489641.62454
+        	right sum is 172673489641.62454
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+			Absolute max over voxels: -1.1641532182693481e-10
+			Relative max over voxels: -2.1369700947442729e-16
+	Conclusion: PASSED!
+
+
+Testing: [0] equals ['exc']
+        for regions matching ['and', ['Isocortex', 'Layer1']]
+        with a relative tolerance of {'absolute': 0.01}...
+		left sum is 0
+        	right sum is 0.0
+        		Resulting errors:
+			Absolute sum: 0.0
+			Relative sum: 0.0
+	Conclusion: PASSED!
+
+
+Testing: ['neurons'] equals ['exc', 'gad']
+        for regions matching Isocortex
+        with a relative tolerance of {'relative': 1e-06}...
+		left sum is 604789164756.4456
+        	right sum is 604378068995.4956
+        		Resulting errors:
+			Absolute sum: 411095760.9499512
+			Relative sum: 0.00033998255119298645
+			Absolute max over voxels: -663680427.9360887
+			Relative max over voxels: -0.9993777887683393
+	Conclusion: FAILED!
+
+
+
+neurons: Passed 0 out of 1 tests
+gad: Passed 1 out of 2 tests
+exc: Passed 1 out of 2 tests
+pv: Passed 1 out of 1 tests
+sst: Passed 1 out of 1 tests
+rest: Passed 1 out of 1 tests
+vip: Passed 1 out of 1 tests
+
