@@ -1,6 +1,9 @@
-Configuration files to use for validating cell densities of the M7 circuit
+Configuration files to use for validating cell densities for circuit building
 
-For the validation of densities in the circuit, the path to the circuit might need to be updated! For now I assume a CircuitConfig_somata will exist.
+Note the README at the root of the repo with instructions how to customize the configuration files for specific runs.
+Below an explanation of the individual validations and their rationale:
+
+
 
 Validation of consistency of "input" densities
 CONFIG: consistency_checks_density_inputs.json
