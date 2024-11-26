@@ -10,3 +10,7 @@ The validations are to be run at the following steps of the cell-density-buildin
 2) After the generation of densities for inhibitory m-types (Yann), run a validation against consistency_checks_inh_density_outputs.json
 3) After the generation of excitatory densities, run a validation against consistency_checks_exc_density_outputs.json
 4) After a circuit has been built, validate it using circuit_test_all_densities.json
+
+# Funding & Acknowledgment
+This development is supported by funding to the Blue Brain Project, a research center of the École polytechnique fédérale de Lausanne (EPFL), from the Swiss government's ETH Board of the Swiss Federal Institutes of Technology.
+Copyright © 2024 Blue Brain Project/EPFL
